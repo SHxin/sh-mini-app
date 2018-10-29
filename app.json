@@ -3,7 +3,9 @@
     "pages/index/index",
     "pages/logs/logs",
     "pages/list/list",
-    "pages/list01/list01"
+    "pages/list01/list01",
+    "pages/list02/list02",
+    "pages/list03/list03"
   ],
   "window":{
     "backgroundTextStyle":"light",

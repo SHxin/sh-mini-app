@@ -1,11 +1,13 @@
 /* pages/list/list.wxss */
 
 .ul {
-  margin-left: 30px;
+  margin: 0 20px;
 }
 
 .li {
   font-size: 18px;
   line-height: 1.2;
-  padding: 4px 0;
+  padding: 6px;
+  background-color: pink;
+  margin-top: 10px;
 }

@@ -24,13 +24,36 @@
 			"current": -1,
 			"list": []
 		},
+		"plugin": {
+			"current": -1,
+			"list": []
+		},
 		"game": {
 			"currentL": -1,
 			"list": []
 		},
 		"miniprogram": {
-			"current": -1,
-			"list": []
+			"current": 2,
+			"list": [
+				{
+					"id": -1,
+					"name": "列表",
+					"pathName": "pages/list/list",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "button组件研究",
+					"pathName": "pages/list02/list02",
+					"query": ""
+				},
+				{
+					"id": -1,
+					"name": "上拉刷新原生demo",
+					"pathName": "pages/list03/list03",
+					"query": ""
+				}
+			]
 		}
 	}
 }
