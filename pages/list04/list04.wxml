@@ -1,0 +1,19 @@
+<!--pages/list04/list04.wxml-->
+<input placeholder="请输入标题" />
+<input placeholder="请输入标题" />
+<input placeholder="请输入标题" />
+<input placeholder="请输入标题" />
+<input placeholder="请输入标题" />
+<input placeholder="请输入标题" />
+<input placeholder="请输入标题" />
+<input placeholder="请输入标题" />
+<input placeholder="请输入标题" />
+<input placeholder="请输入标题" />
+<input placeholder="请输入标题" />
+<view class='mask'>
+  <view class='box'>
+    <input placeholder="请输入标签" />
+    <button class='fl'>取消</button>
+    <button class='fr'>确定</button>
+  </view>
+</view>

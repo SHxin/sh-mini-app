@@ -3,4 +3,5 @@
   <navigator class='li' url='/pages/list01/list01'>01-webview回到小程序页面</navigator>
   <navigator class='li' url='/pages/list02/list02'>02-button绑定两个事件</navigator>
   <navigator class='li' url='/pages/list03/list03'>03-上拉刷新原生demo</navigator>
+  <navigator class='li' url='/pages/list04/list04'>04-蒙层下面有输入框</navigator>
 </view>

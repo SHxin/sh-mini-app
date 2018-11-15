@@ -5,7 +5,8 @@
     "pages/list/list",
     "pages/list01/list01",
     "pages/list02/list02",
-    "pages/list03/list03"
+    "pages/list03/list03",
+    "pages/list04/list04"
   ],
   "window":{
     "backgroundTextStyle":"light",
