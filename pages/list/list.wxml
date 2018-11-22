@@ -4,4 +4,7 @@
   <navigator class='li' url='/pages/list02/list02'>02-button绑定两个事件</navigator>
   <navigator class='li' url='/pages/list03/list03'>03-上拉刷新原生demo</navigator>
   <navigator class='li' url='/pages/list04/list04'>04-蒙层下面有输入框</navigator>
+  <navigator class='li' url='/pages/list05/list05'>05-很多picker</navigator>
+  <navigator class='li' url='/pages/list06/list06'>06-时间日期picker</navigator>
+  <navigator class='li' url='/pages/list07/list07'>07-获取键盘高度</navigator>
 </view>

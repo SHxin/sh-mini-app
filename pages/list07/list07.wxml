@@ -1,0 +1,2 @@
+<!--pages/list07/list07.wxml-->
+<input  bindfocus='focus' placeholder="输入同步到view中"/>

@@ -6,7 +6,10 @@
     "pages/list01/list01",
     "pages/list02/list02",
     "pages/list03/list03",
-    "pages/list04/list04"
+    "pages/list04/list04",
+    "pages/list05/list05",
+    "pages/list06/list06",
+    "pages/list07/list07"
   ],
   "window":{
     "backgroundTextStyle":"light",
