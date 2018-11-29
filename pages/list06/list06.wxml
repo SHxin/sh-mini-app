@@ -1,5 +1,5 @@
-<picker mode="multiSelector" value="{{dateTime1}}" bindchange="changeDateTime1" bindcolumnchange="changeDateTimeColumn1" range="{{dateTimeArray1}}">
+<picker mode="multiSelector" value="{{dateTime}}" bindchange="changeDateTime1" bindcolumnchange="changeDateTimeColumn1" range="{{dateTimeArray}}">
   <view class="tui-picker-detail">
-    {{dateTimeArray1[0][dateTime1[0]]}}年{{dateTimeArray1[1][dateTime1[1]]}}月{{dateTimeArray1[2][dateTime1[2]]}} {{dateTimeArray1[3][dateTime1[3]]}}:{{dateTimeArray1[4][dateTime1[4]]}}
+    {{dateTimeArray[0][dateTime[0]]}}年{{dateTimeArray[1][dateTime[1]]}}月{{dateTimeArray[2][dateTime[2]]}} {{dateTimeArray[3][dateTime[3]]}}:{{dateTimeArray[4][dateTime[4]]}}
   </view>
 </picker>

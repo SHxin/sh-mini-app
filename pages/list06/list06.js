@@ -4,8 +4,8 @@ Page({
   data: {
     date: '2018-10-01',
     time: '12:00',
-    dateTimeArray1: null,
-    dateTime1: null,
+    dateTimeArray: null,
+    dateTime: null,
     startYear: 2000,
     endYear: 2050
   },
@@ -19,26 +19,25 @@ Page({
 
 
     this.setData({
-      dateTimeArray1: obj1.dateTimeArray,
-      dateTime1: obj1.dateTime
+      dateTimeArray: obj1.dateTimeArray,
+      dateTime: obj1.dateTime
     });
   },
   changeDateTime1(e) {
     this.setData({
-      dateTime1: e.detail.value
+      dateTime: e.detail.value
     });
   },
   changeDateTimeColumn1(e) {
-    var arr = this.data.dateTime1,
-      dateArr = this.data.dateTimeArray1;
+    var arr = this.data.dateTime,
+      dateArr = this.data.dateTimeArray;
 
     arr[e.detail.column] = e.detail.value;
     dateArr[2] = dateTimePicker.getMonthDay(dateArr[0][arr[0]], dateArr[1][arr[1]]);
 
 
     this.setData({
-      dateTimeArray1: dateArr,
-      dateTime1: arr
+      dateTimeArray: dateArr
     });
   }
 })

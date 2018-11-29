@@ -1,1 +1,4 @@
 /* pages/list06/list06.wxss */
+.tui-picker-detail{
+  word-spacing: 12px;
+}
