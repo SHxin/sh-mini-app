@@ -1,0 +1,3 @@
+<!--pages/list08b/list08b.wxml-->
+<view>当前08b</view>
+<view bindtap='abc'>redirect去08c</view>

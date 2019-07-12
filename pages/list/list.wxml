@@ -7,4 +7,5 @@
   <navigator class='li' url='/pages/list05/list05'>05-很多picker</navigator>
   <navigator class='li' url='/pages/list06/list06'>06-时间日期picker</navigator>
   <navigator class='li' url='/pages/list07/list07'>07-获取键盘高度</navigator>
+  <navigator class='li' url='/pages/list08/list08'>08-wx.redirecTo研究</navigator>
 </view>

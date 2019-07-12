@@ -1,5 +1,5 @@
 {
-  "pages":[
+  "pages": [
     "pages/index/index",
     "pages/logs/logs",
     "pages/list/list",
@@ -9,13 +9,16 @@
     "pages/list04/list04",
     "pages/list05/list05",
     "pages/list06/list06",
-    "pages/list07/list07"
+    "pages/list07/list07",
+    "pages/list08/list08",
+    "pages/list08b/list08b",
+    "pages/list08c/list08c"
   ],
-  "window":{
-    "backgroundTextStyle":"light",
+  "window": {
+    "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
     "navigationBarTitleText": "sh-mini-app",
-    "navigationBarTextStyle":"black"
+    "navigationBarTextStyle": "black"
   },
   "tabBar": {
     "list": [
@@ -28,5 +31,6 @@
         "text": "列表"
       }
     ]
-  }
+  },
+  "sitemapLocation": "sitemap.json"
 }

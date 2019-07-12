@@ -1,0 +1,3 @@
+<!--pages/list08/list08.wxml-->
+<view>当前08</view>
+<navigator class='li' url='/pages/list08b/list08b'>navigator去08b</navigator>
